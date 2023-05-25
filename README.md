@@ -40,7 +40,7 @@ Copy code
 npm start
 This will start the app in development mode and open it in your default browser. You should be able to see the TodoList interface and interact with it.
 
-##Features
+## Features
 
 
 The TodoList React app provides the following features:
@@ -51,7 +51,7 @@ Edit the content of existing tasks.
 Delete tasks from the list.
 Filter tasks based on their completion status (All, Active, Completed).
 
-##Contributing
+## Contributing
 
 Contributions to the TodoList React app are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
