@@ -7,8 +7,8 @@ This is a simple TodoList app built using React. It allows you to create, read, 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
+- [Features](#Features)
+- [Contributing](#Contributing)
 
 ## Installation
 
