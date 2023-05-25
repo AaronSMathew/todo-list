@@ -1,8 +1,5 @@
-
-
-"homepage": "https://AaronSMathew.github.io/todo-list",
-
 {
+  "homepage": "https://AaronSMathew.github.io/todo-list",
   "name": "todo-react",
   "version": "0.1.0",
   "private": true,
